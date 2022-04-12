@@ -1,0 +1,22 @@
+{
+  "Cred": [
+    {
+      "id": 1,
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc"
+    },
+    {
+      "id": 2,
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc"
+    },
+    {
+      "username": "abcd",
+      "email": "abcd@gmail.com",
+      "password": "abcd",
+      "id": 3
+    }
+  ]
+}
